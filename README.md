@@ -14,3 +14,4 @@ step 3: install necessary modules
         pip install PIL
 
 step 4: run the code :)
+        text-extractor.py
